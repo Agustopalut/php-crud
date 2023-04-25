@@ -1,0 +1,26 @@
+/* login */
+*{
+    text-decoration: none;
+}
+.container-fluid {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(59, 59, 197);
+
+}
+
+.box-container {
+    padding: 35px 40px 35px 20px;
+    border-radius: 7px;
+    background-color: white;
+    border: none;
+    background-color: white;
+}
+.box-container ul {
+    list-style: none;
+}
+
+/* index */
